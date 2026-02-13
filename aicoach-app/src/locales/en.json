@@ -1,0 +1,63 @@
+{
+  "common": {
+    "appName": "AICoach",
+    "home": "Home",
+    "courses": "Courses",
+    "interview": "Interview",
+    "resume": "Resume",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login",
+    "signup": "Sign Up",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit"
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "signupTitle": "Create Account",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "rememberMe": "Remember Me",
+    "noAccount": "Don't have an account?",
+    "alreadyAccount": "Already have an account?"
+  },
+  "courses": {
+    "myCourses": "My Courses",
+    "allCourses": "All Courses",
+    "courseName": "Course Name",
+    "progress": "Progress",
+    "instructor": "Instructor",
+    "duration": "Duration",
+    "enrolled": "Enrolled",
+    "enroll": "Enroll Now"
+  },
+  "interview": {
+    "mockInterview": "Mock Interview",
+    "history": "Interview History",
+    "startInterview": "Start Interview",
+    "endInterview": "End Interview",
+    "score": "Score",
+    "feedback": "Feedback"
+  },
+  "resume": {
+    "myResume": "My Resume",
+    "uploadResume": "Upload Resume",
+    "optimization": "Resume Optimization",
+    "suggestions": "Suggestions",
+    "download": "Download"
+  },
+  "profile": {
+    "editProfile": "Edit Profile",
+    "accountSettings": "Account Settings",
+    "changePassword": "Change Password",
+    "personalInfo": "Personal Information",
+    "privacy": "Privacy Settings"
+  }
+}
